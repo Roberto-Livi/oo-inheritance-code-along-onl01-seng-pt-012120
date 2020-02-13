@@ -1,7 +1,7 @@
-class Vehicle
+class Vehicle < Car
   
   def go
-    'vrrrrrrrooooom!'
+    'vrrrrrrrooom!'
   end
   
 end
