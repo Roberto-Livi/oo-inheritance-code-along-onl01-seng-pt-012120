@@ -1,4 +1,4 @@
-class Vehicle < Car
+class Vehicle
   
   def go
     'vrrrrrrrooooom!'
