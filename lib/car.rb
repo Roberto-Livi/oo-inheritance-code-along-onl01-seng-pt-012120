@@ -9,14 +9,6 @@ class Car
     @number = number
   end
   
-  def wheel_size
-    self.wheel_size
-  end
-  
-  def wheel_number
-    self.number
-  end
-  
   def go
     'VRRROOOOOOOOOOOOOOOOOOM!!!!!'
   end
